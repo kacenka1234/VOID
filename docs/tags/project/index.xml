@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Publikování na webu a CSS</title>
+    <link>https://localhost:1313.github.io/hugo-start/tags/project/</link>
+    <description>Recent content in Project on Publikování na webu a CSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313.github.io/hugo-start/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MapyCZ</title>
+      <link>https://localhost:1313.github.io/hugo-start/post/mapycz/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313.github.io/hugo-start/post/mapycz/</guid>
+      <description>Toto je odkaz na obsah webu Mapy.cz a vybrala jsem jej, protože správná mapa je nedílnou součástí turismu, resp. cestou nejen do přírody. What&amp;rsquo;s next? See another post or head back to homepage. (Check this paragraph to see the magic behind the between posts.)</description>
+    </item>
+    
+  </channel>
+</rss>
